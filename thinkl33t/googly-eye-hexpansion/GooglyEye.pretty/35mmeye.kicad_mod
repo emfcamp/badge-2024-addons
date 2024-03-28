@@ -1,0 +1,21 @@
+(footprint "35mmeye" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp d5336f8e-4035-4f04-9434-b86bf16c06be)
+  )
+  (fp_text value "35mmeye" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp caab1c17-b9cd-4e21-ab44-29be07b45ff8)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a31054f2-7e64-43b6-8d38-884238dcf540)
+  )
+  (fp_circle (center 0 0) (end 17.5 0)
+    (stroke (width 0.1) (type dash)) (fill none) (layer "F.SilkS") (tstamp 05df4d0e-3583-442a-b085-4fbc82b2c89a))
+  (fp_circle (center 0 0) (end 17.5 0)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Dwgs.User") (tstamp b5b952a6-7d94-4555-8acd-3897f14dace8))
+  (fp_circle (center 0 7.5) (end 10 7.5)
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp 6fe46706-c0e9-4e95-9c67-2ca75a614f90))
+)
