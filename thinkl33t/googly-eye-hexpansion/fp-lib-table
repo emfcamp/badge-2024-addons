@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/../../../badge-2024-hardware/tildagon-base/tildagon.pretty")(options "")(descr ""))
+  (lib (name "GooglyEye")(type "KiCad")(uri "${KIPRJMOD}/GooglyEye.pretty")(options "")(descr ""))
+)
