@@ -526,7 +526,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -545,6 +545,12 @@
           "label": "MPN",
           "name": "MPN",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Enable",
+          "name": "Sim.Enable",
+          "show": false
         }
       ],
       "filter_string": "",
