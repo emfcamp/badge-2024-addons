@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/../../../badge-2024-hardware/tildagon-base/tildagon.kicad_sym")(options "")(descr ""))
   (lib (name "GooglyEye")(type "KiCad")(uri "${KIPRJMOD}/GooglyEye.kicad_sym")(options "")(descr ""))
+  (lib (name "AP3602")(type "KiCad")(uri "${KIPRJMOD}/AP3602.kicad_sym")(options "")(descr ""))
 )
