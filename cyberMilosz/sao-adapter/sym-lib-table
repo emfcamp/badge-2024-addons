@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/../tildagon-base/tildagon.kicad_sym")(options "")(descr ""))
+  (lib (name "Simple_Addon_v2")(type "Legacy")(uri "${KIPRJMOD}/Simple_Addon_v2.lib")(options "")(descr ""))
+)
