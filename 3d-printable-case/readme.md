@@ -1,6 +1,6 @@
 # Official 3d Printable Case for the 2024 EMF Camp Badge
 
-![Tildagon Bumper Case][Bumper Case.png]
+![Tildagon Bumper Case][Bumper Case]
 
 ## Introduction
 The design decisions for building this case were simple:
