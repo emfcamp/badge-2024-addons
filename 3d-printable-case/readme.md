@@ -6,6 +6,11 @@ The design decisions for building this case were simple:
 - Protect the edges and allow placing the badge down without the board touching surfaces
 - Be as easily printable as possible
 
+## Parts Needed
+In addition to the printed parts and your badge you will need:
+- 4x short 2m screws (I used 2x6mm and they worked fine)
+- 6 6x3mm Magnets if you wish to print the magnet base
+
 ## Individual Parts
 The case comes in several sections and the top and bottom sections are attached with screws. 
 
