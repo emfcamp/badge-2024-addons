@@ -1,0 +1,4 @@
+[submodule "Skyler84/goosepansion"]
+	path = Skyler84/goosepansion
+	url = https://github.com/skyler84-tildagon-addons/goosepansion
+	branch = main
