@@ -14,15 +14,12 @@ And here's a render!
 
 ## Some Code!
 
-You can output to the LEDs from an app using the HS_F pin:
+For the firmware running on the hexpansion, have a look at `app.py`
 
-```python
-import neopixel
+To flash this, have mpremote open, make sure you have a checkout of
+`badge-2024-software` and replace the `prepare_eeprom.py` in modules/scripts/
+with the one from here, then run the following:
 
-np = neopixel.NeoPixel(hexpansion.HS_F, 2)
-np[0] = (255,0,0)
-np[1] = (255,0,0)
-np.write()
 ```
-
-Note i pretty much made up how talking to the pins works, as the firmware isn't that complete yet!
+mpremote mount modules + run modules/scripts/prepare_eeprom.py + cp ../badge-2024-addons/thinkl33t/googly-eye-hexpansion/firmware/app.py :/eeprom/app.py + reset
+```
